@@ -1,0 +1,8 @@
+node_modules
+dist
+webpack.config.js
+.eslintrc.js
+*.config.js
+jest-setup.ts
+__mocks__
+__snapshots__

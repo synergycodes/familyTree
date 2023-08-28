@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "target": "es5",
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "allowJs": true,
+    "noEmit": true,
+    "module": "ES6",
+    "outDir": "./dist/",
+    "lib": ["es2018", "dom"],
+    "strict": true
+  },
+  "exclude": ["bin", "node_modules"]
+}
