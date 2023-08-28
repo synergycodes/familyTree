@@ -10,3 +10,7 @@ Run `npm install` in project's root directory to install dependencies.
 Then run `npm start` to start the application.
 
 Application should be available at `http://localhost:8080/`
+
+### Demo
+
+Play with the demo [here](https://synergycodes.github.io/familyTree/)
